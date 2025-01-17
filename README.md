@@ -28,7 +28,7 @@
 <h2 id="installation">Installation</h2>
 <p>To install and run the Drone Intrusion Detection System, follow these steps:</p>
 <ol>
-    <li>Clone the repository: <code>git clone https://github.com/muhammadumermemon/Drone-Intrusion-Detection-System.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/muhammadumerbinfarooq/Drone-Intrusion-Detection-System.git</code></li>
     <li>Navigate to the project directory: <code>cd Drone-Intrusion-Detection-System</code></li>
     <li>Assemble the code using an assembler like NASM: <code>nasm -f elf32 drone_intrusion_detection.asm</code></li>
     <li>Link the object file: <code>ld -m elf_i386 -s -o drone_intrusion_detection drone_intrusion_detection.o</code></li>
